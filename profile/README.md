@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://prototir.com">
+    <img src="./assets/prototir-github-banner.png" alt="Prototir — Ideas you can touch" width="100%">
+  </a>
+</p>
+
 # Prototir
 
 Prototir is a platform for publishing, playing, and testing interactive web prototypes.
