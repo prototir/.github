@@ -6,9 +6,11 @@
 
 # Prototir
 
-Prototir is a platform for publishing, playing, and testing interactive web prototypes.
+Prototir is a platform for publishing, trying, and testing browser experiences and native builds.
 
-Build with plain HTML, CSS, JavaScript, Three.js, Unity, or Godot, then connect your experience to Prototir through lifecycle events, scores, persistent storage, analytics events, and optional managed AI.
+Build for the browser with HTML, CSS, JavaScript, Three.js, Unity, or Godot, or ship native Unity and Godot builds for Windows, macOS, and Linux. Publish either format or both on one prototype page.
+
+The SDKs connect real use to sessions, events, scores, and feedback. Native builds use device pairing and text feedback; browser builds also support persistent SDK storage, managed AI, and screenshot feedback.
 
 - [Open Prototir](https://prototir.com)
 - [Creator documentation](https://prototir.com/docs/creators)
